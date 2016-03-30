@@ -1,0 +1,10 @@
+diff a/first.txt b/first.txt	(rejected hunks)
+@@ -2,4 +2,5 @@
+ 2+2
+ 3+3
+ FF
+-EDIT FILE
+\ No newline at end of file
++EDIT FILE
++abcd555
+\ No newline at end of file
